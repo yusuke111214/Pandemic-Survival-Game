@@ -375,6 +375,8 @@
 "Assets/App/Common/Scripts/MonoBehaviour/InventoryManager.cs"
 "Assets/App/Common/Scripts/MonoBehaviour/SaveManager.cs"
 "Assets/App/Common/Scripts/MonoBehaviour/UIManager.cs"
+"Assets/Kabungus/HouseholdItems/Scripts/MouseLook.cs"
+"Assets/Kabungus/HouseholdItems/Scripts/PlayerMovement.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic

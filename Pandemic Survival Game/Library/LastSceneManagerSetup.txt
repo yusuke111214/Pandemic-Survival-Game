@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/App/Start/Scenes/Start.unity
+- path: Assets/Kabungus/HouseholdItems/Scenes/URP/Demo.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
