@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Kabungus/HouseholdItems/Scenes/URP/Demo.unity
+- path: Assets/App/Scavenging/Scenes/Scavenging.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
